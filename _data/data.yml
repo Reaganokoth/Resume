@@ -26,14 +26,21 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+    
+    - idiom: English
         level: Professional
+
+      - idiom: German
+        level: Intermediate
 
       - idiom: Kiswahili
         level: Native
-
+      
       - idiom: Luo
         level: Native
+      
+      - idiom: Turkish
+        level: Beginer
 
     interests:
       - item: Biking
@@ -62,24 +69,24 @@ education:
       university: Würzburg University Germany
       time: 2020 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        This master's program is in part based on the exploration of various
+        programming languages to process and analyze Earth Observation data.
+            During this study, I have implemented various projects that directly involved manipulation and processing of EO data using the most contemporary platforms. In the most recent project, I modelled drought induced loss in agricultural production in Kenya based on freely available satellite data (MODIS, CHIRPS). I was able to accurately predict major drought years in Kenya. This work was performed both on Google Earth Engine (GEE) and in R. On another project, I quantified drought impact on European Forests following the 2018 heatwave. Here I mapped dead trees from Planet Data using Python.
+        
     - degree: MSc Marine and Lacustrine Science and Management (Oceans & Lakes)
-      university: Vrije Universität Brussels | Ghent University | Antwerpen University
-      time: 2007 - 2011
+      university: Vrije Universiteit Brussels | Ghent University | Antwerpen University
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I had a year of research and development where I worked with Ph.D. students and my professor for my master's thesis. My work focused on finding patterns of dune resilience and stability in relation to tidal regimes, urbanization, and country. Here, I wrote codes to classify multiple satellite images from multiple timestamps into different landcover classes then extracted relevant vegetation data.
+        
+        
+        
+    - degree: BSc Coastal and Marine Resource Managenent
+      university: Kenyatta University
+      time: 2012 - 2016
+      details: |
+        For my undergraduate research, I assessed the amount of organic carbon stored in the sediment of different seagrass species in Gazi Bay in Kenya.
+    
 experiences:
     - role: Lead Developer
       time: 2015 - Present
