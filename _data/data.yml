@@ -49,8 +49,8 @@ sidebar:
       - item: Soccer
         link:
 
-      - item: Growing food
-        link:
+      #- item: Growing food
+       # link:
 
 career-profile:
     title: Career Profile
