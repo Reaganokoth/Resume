@@ -71,7 +71,7 @@ education:
       details: |
         This master's program is in part based on the exploration of various
         programming languages to process and analyze Earth Observation data.
-            During this study, I have implemented various projects that directly involved manipulation and processing of EO data using the most contemporary platforms. In the most recent project, I modelled drought induced loss in agricultural production in Kenya based on freely available satellite data (MODIS, CHIRPS). I was able to accurately predict major drought years in Kenya. This work was performed both on Google Earth Engine (GEE) and in R. On another project, I quantified drought impact on European Forests following the 2018 heatwave. Here I mapped dead trees from Planet Data using Python.
+        During this study, I have implemented various projects that directly involved manipulation and processing of EO data using the most contemporary platforms. In the most recent project, I modelled drought induced loss in agricultural production in Kenya based on freely available satellite data (MODIS, CHIRPS). I was able to accurately predict major drought years in Kenya. This work was performed both on Google Earth Engine (GEE) and in R. On another project, I quantified drought impact on European Forests following the 2018 heatwave. Here I mapped dead trees from Planet Data using Python.
         
     - degree: MSc Marine and Lacustrine Science and Management (Oceans & Lakes)
       university: Vrije Universiteit Brussels | Ghent University | Antwerpen University
