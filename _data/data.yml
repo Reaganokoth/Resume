@@ -36,11 +36,11 @@ sidebar:
       - idiom: Kiswahili
           level: Native
       
-      - idiom: Luo
-          level: Native
+      #- idiom: Luo
+          #level: Native
       
-      - idiom: Turkish
-          level: Beginer
+      #- idiom: Turkish
+          #level: Beginer
 
     interests:
       - item: Biking
