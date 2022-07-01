@@ -30,16 +30,16 @@ sidebar:
     - idiom: English
         level: Professional
 
-      - idiom: German
+    - idiom: German
         level: Intermediate
 
-      - idiom: Kiswahili
+    - idiom: Kiswahili
         level: Native
       
-      - idiom: Luo
+    - idiom: Luo
         level: Native
       
-      - idiom: Turkish
+    - idiom: Turkish
         level: Beginer
 
     interests:
